@@ -20,7 +20,7 @@
 - GitHub
 - GitKraken
 - Git
-- Visual Studio
+- Visual Studio 2022
 - ChatGPT
 - DeepSeek
 
